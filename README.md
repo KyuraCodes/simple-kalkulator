@@ -1,5 +1,5 @@
 ````markdown
-# 🧮 Kalkulator Sederhana (Python)
+ 🧮 Kalkulator Sederhana (Python)
 
 Proyek ini adalah kalkulator sederhana yang dibuat menggunakan bahasa pemrograman Python.  
 Fungsinya untuk melakukan operasi dasar matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.
